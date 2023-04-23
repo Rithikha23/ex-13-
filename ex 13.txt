@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movies>
+  <movie>
+    <title>Anjan</title>
+    <director>Frank Darabont</director>
+    <genre>Drama</genre>
+    <year>2018</year>
+    <rating>9.3</rating>
+    <available>yes</available>
+  </movie>
+  <movie>
+    <title>The Godfather</title>
+    <director>Francis Ford Coppola</director>
+    <genre>Crime, Drama</genre>
+    <year>1972</year>
+    <rating>9.2</rating>
+    <available>yes</available>
+  </movie>
+  <movie>
+    <title>CBI-5</title>
+    <director>K.Madhu</director>
+    <genre>crime,CBI</genre>
+    <year>2022</year>
+    <rating>9.5</rating>
+    <available>yes</available>
+  </movie>
+  <movie>
+    <title>RRR</title>
+    <director>S.S Rajamouli</director>
+    <genre>Historicalflim</genre>
+    <year>2021</year>
+    <rating>8.9</rating>
+    <available>yes</available>
+  </movie>
+</movies>
